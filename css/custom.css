@@ -1,0 +1,113 @@
+body {
+	margin-top: 50px; /* 50px is the height of the navbar - change this if the navbarn height changes */
+	font-family: "open sans", arial, sans-serif;
+}
+
+.portfolio-item {
+	margin-bottom: 25px;
+}
+
+.img-responsive {
+	/*height: 150px;
+	width: 300px;*/		
+}
+
+.project-gist {
+	background-color: #DfDfDf;
+	opacity: 1;
+	position: absolute;
+	top: 0px;
+	width: 215px;
+	height: 150px;
+	opacity: 0;
+}
+
+.portfolio-item:hover .project-gist{
+	opacity: 0.97;
+}
+
+.project-gist-title {
+	margin-left: 10px;
+	margin-right: 10px;
+	color: #777;
+}
+
+.project-gist-desc {
+	margin-left: 10px;
+	margin-right: 10px;
+	color: #888;
+}
+
+.project-gallery-img {
+	width:559px; 
+	margin-top: 20px;
+	border: 1px solid #DfDfDf; 
+}
+
+.project-gallery-carousel {
+	margin-top: 20px;
+}
+
+.navbar-inverse {
+  background-color: transparent;
+  border-color: transparent;
+  position: absolute;
+  top: 90px;
+  left: 600px;
+}
+
+.navbar-inverse .navbar-nav > li > a:hover {
+	color: #666;
+}
+
+.lead {
+	font-size: 16px;
+	line-height: 30px;
+	color: #444;
+}
+
+.carousel-inner .gb_item {
+	height: 322px;
+}
+
+.carousel-inner .cs_item {
+	height: 390px;
+}
+
+.carousel-inner .br_item {
+	height: 500px;
+}
+
+.carousel-caption {
+	color: white;
+	background-color: black;
+	width: 100%;
+	opacity: 0.8;
+	text-align: left;
+	position: absolute;
+	left: 0px;
+	bottom: -20px;
+	right: 0px;
+}
+
+.carousel-caption h5 {
+	position: absolute;
+	left: 10px;
+	bottom: 15px;
+	text-align: center;
+}
+
+.carousel-indicators {
+	position: absolute;
+	right: 10px;
+	bottom: -6px;
+}
+
+.footer-line {
+	width: 960px;
+}
+
+footer {
+	position: absolute;
+	bottom: 10px;
+}
