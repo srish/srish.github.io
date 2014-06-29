@@ -19,6 +19,10 @@ body {
 	margin-bottom: 0px;
 }
 
+.conf-title {
+	font-weight: 400;
+}
+
 .portfolio-item .conf-desc {
 	margin-left: 15px;
 }
