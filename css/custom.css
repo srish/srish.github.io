@@ -5,6 +5,8 @@ body {
 
 .page-header {
 	font-weight: 400;
+	margin: 0px;
+	margin-top: -40px;
 }
 
 .page-header-mini {
@@ -12,7 +14,8 @@ body {
 }
 
 .portfolio-item {
-	margin-bottom: 15px 
+	margin-top: 15px;
+	margin-bottom: 15px;
 }
 
 .conf-item {
@@ -76,13 +79,26 @@ body {
 .navbar-inverse {
   background-color: transparent;
   border-color: transparent;
-  position: absolute;
-  top: 90px;
-  left: 720px;
+  position: relative;
 }
 
-.navbar-inverse .navbar-nav > li > a:hover {
+.navbar-toggle {
+	background-color: #dfdfdf;
+	margin-right: 20px;
+}
+
+.navbar-toggle .icon-bar {
+	background-color: black;
+}
+
+.navbar-nav > li > a {
+	color: #999;
+	background-color: none;
+}
+
+.navbar-nav > li > a:hover {
 	color: #666;
+	background-color: transparent;
 }
 
 .lead {
