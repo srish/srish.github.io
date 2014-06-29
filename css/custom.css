@@ -45,6 +45,7 @@ body {
 .project-gist-title {
 	margin-left: 10px;
 	margin-right: 10px;
+	font-weight: 400;
 	color: #777;
 }
 
