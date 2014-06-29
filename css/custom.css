@@ -55,6 +55,10 @@ body {
 	color: #888;
 }
 
+.project-title {
+	font-weight: 400;
+}
+
 .project-gallery-img {
 	width:559px; 
 	margin-top: 20px;
