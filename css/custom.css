@@ -4,7 +4,10 @@ body {
 }
 
 .portfolio-item {
-	margin-bottom: 25px;
+}
+
+.portfolio-item .conf-desc {
+	margin-left: 15px;
 }
 
 .img-responsive {
