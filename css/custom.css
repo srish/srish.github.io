@@ -3,6 +3,14 @@ body {
 	/*font-family: "open sans", arial, sans-serif;*/
 }
 
+.page-header {
+	font-weight: 400;
+}
+
+.page-header-mini {
+	font-weight: 200;
+}
+
 .portfolio-item {
 	margin-bottom: 15px 
 }
