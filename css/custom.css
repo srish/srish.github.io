@@ -80,7 +80,6 @@ a:hover {
 
 .project-gist {
 	background-color: #EC5E3D;
-	//background-color: #f2f2f2;
 	opacity: 0.9;
 	position: absolute;
 	top: 0px;
@@ -90,7 +89,7 @@ a:hover {
 }
 
 .portfolio-item:hover .project-gist{
-	opacity: 1;
+	opacity: 0.91;
 }
 
 .project-gist-title {
