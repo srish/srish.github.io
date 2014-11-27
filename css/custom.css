@@ -8,6 +8,16 @@ body {
 	line-height: 1.6;
 }
 
+a {
+	color: #EC5E3D;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #EC5E3D;
+	text-decoration: none;
+}
+
 .navbar-collapse {
 	padding: 0px;
 	margin: 0px;
@@ -130,7 +140,7 @@ body {
 }
 
 .navbar-nav > li > a:hover {
-	color: #666;
+	color: #EC5E3D;
 	background-color: transparent;
 }
 
