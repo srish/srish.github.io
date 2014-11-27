@@ -33,10 +33,11 @@ body {
 .img-responsive {
 	height: 140px;
 	width: 215px;		
+	border: 1px solid #dfdfdf;
 }
 
 .project-gist {
-	background-color: #DfDfDf;
+	background-color: #f2f2f2;
 	opacity: 1;
 	position: absolute;
 	top: 0px;
@@ -69,7 +70,7 @@ body {
 .project-gallery-img {
 	width: 450px; 
 	margin-top: 20px;
-	border: 1px solid #DfDfDf; 
+	border: 1px solid #f2f2f2; 
 }
 
 .project-gallery-carousel {
