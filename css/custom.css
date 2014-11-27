@@ -79,8 +79,9 @@ a:hover {
 }
 
 .project-gist {
-	background-color: #f2f2f2;
-	opacity: 1;
+	background-color: #EC5E3D;
+	//background-color: #f2f2f2;
+	opacity: 0.9;
 	position: absolute;
 	top: 0px;
 	width: 215px;
@@ -89,20 +90,30 @@ a:hover {
 }
 
 .portfolio-item:hover .project-gist{
-	opacity: 0.97;
+	opacity: 1;
 }
 
 .project-gist-title {
 	margin-left: 10px;
 	margin-right: 10px;
 	font-weight: 400;
-	color: #777;
+	color: white;
+
+	font-size: 1.4em;
+	font-weight: 400;
+	letter-spacing: 0.01rem;
+	line-height: 1.2;
 }
 
 .project-gist-desc {
 	margin-left: 10px;
 	margin-right: 10px;
-	color: #888;
+	color: white;
+
+	font-size: 1.0em;
+	font-weight: 400;
+	letter-spacing: 0.01rem;
+	line-height: 1.2;
 }
 
 .project-title {
