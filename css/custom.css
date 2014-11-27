@@ -1,6 +1,11 @@
 body {
 	margin-top: 50px; /* 50px is the height of the navbar - change this if the navbarn height changes */
 	/*font-family: "open sans", arial, sans-serif;*/
+	font-family: "freight-text-pro",Georgia,Cambria,"Times New Roman",Times,serif;
+	font-size: 1.6em;
+	font-weight: 400;
+	letter-spacing: 0.01rem;
+	line-height: 1.6;
 }
 
 .video-row {
