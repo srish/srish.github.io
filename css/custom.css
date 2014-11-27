@@ -139,6 +139,10 @@ body {
 	color: #444;
 }
 
+.carousel-inner .item {
+	border: 1px solid #f2f2f2;
+}
+
 .carousel-inner .gb_item {
 	height: 322px;
 }
