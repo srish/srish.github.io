@@ -129,6 +129,28 @@ a:hover {
 	margin-top: 20px;
 }
 
+ul.pagination {
+	margin: 0px;
+}
+
+.pagination > .active > a {
+	background-color: #EC5E3D;
+	border-color: #EC5E3D;
+}
+
+.pagination > .active > a:hover {
+	background-color: #EC5E3D;
+	border-color: #EC5E3D;
+}
+
+.pagination > li > a {
+	color: #EC5E3D;
+}
+
+.pagination > li > a:hover {
+	color: #EC5E3D;
+}
+
 .navbar-inverse {
   background-color: transparent;
   border-color: transparent;
