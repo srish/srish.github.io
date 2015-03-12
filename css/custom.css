@@ -227,7 +227,17 @@ ul.pagination {
 
 }
 
-/* CSS for Unhangout Blog Articles */
+
+/* CSS for Articles */
+
+.feed_item_title {
+	margin-left: 5px;
+}
+
+.feed_item_date {
+	margin-left: 5px;
+}
+
 
 footer {
 	/*position: absolute;
