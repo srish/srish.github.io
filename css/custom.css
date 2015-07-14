@@ -1,28 +1,103 @@
 body {
-	margin-top: 50px; /* 50px is the height of the navbar - change this if the navbarn height changes */
+	/* 50px is the height of the navbar - change this if the navbarn height changes */
 	/*font-family: "open sans", arial, sans-serif;*/
-	font-family: "freight-text-pro",Georgia,Cambria,"Times New Roman",Times,serif;
+	/* font-family: "freight-text-pro",Georgia,Cambria,"Times New Roman",Times,serif; 
+	
+	/* font-family: "PT Serif"; */
+
+	font-family: "Avenir";
 	font-size: 1.6em;
 	font-weight: 400;
 	letter-spacing: 0.01rem;
 	line-height: 1.6;
 }
 
-a {
-	color: #EC5E3D;
-	text-decoration: none;
-}
+/* Navbar */ 
 
-a:hover {
-	color: #EC5E3D;
-	text-decoration: none;
+.navbar {
+	margin: 0px;
+	margin-top: 20px;
 }
 
 .navbar-collapse {
 	padding: 0px;
 	margin: 0px;
+	padding: 10px;
 	font-size: 0.8em;
 }
+
+.navbar-inverse {
+  background-color: transparent;
+  border-color: transparent;
+  position: relative;
+}
+
+.navbar-toggle {
+	background-color: #EC5E3D;
+	color: #dfdfdf;
+	margin-right: 20px;
+}
+
+.navbar-toggle .icon-bar {
+	background-color: white;
+}
+
+.navbar-nav > li > a {
+	color: #999;
+	background-color: none;
+}
+
+.navbar-nav > li > a:hover {
+	color: #EC5E3D;
+	background-color: transparent;
+}
+
+/* Site Header */
+.site-header {
+	font-weight: 400;
+    color: #EC5E3D;
+    margin: 0px;
+    margin-bottom: 10px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.site-header-mini {
+	font-weight: 200;
+}
+
+.site-header-line {
+	height: 0px;
+	margin: 0px;
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-bottom: 15px;
+}
+
+/* Home Page Content */ 
+.portfolio-picture {
+	padding: 0px;
+	padding: 10px;
+	padding-right: 20px;
+}
+
+.personal-bio {
+	padding: 0px;
+	padding: 10px;
+}
+
+/* Links */
+a, a:link, a:visited {
+	color: #EC5E3D;
+	text-decoration: none;
+}
+
+a:hover {
+	background-color: #FFE5E2;
+	color: #EC5E3D;
+	text-decoration: none;
+}
+
 
 .video-row {
     margin-top: 20px;
@@ -44,16 +119,6 @@ a:hover {
   height: 100%;
 }
 
-.page-header {
-	font-weight: 400;
-	margin: 0px;
-	margin-top: -40px;
-	color: #EC5E3D;
-}
-
-.page-header-mini {
-	font-weight: 200;
-}
 
 .portfolio-item {
 	margin-top: 15px;
@@ -151,30 +216,6 @@ ul.pagination {
 	color: #EC5E3D;
 }
 
-.navbar-inverse {
-  background-color: transparent;
-  border-color: transparent;
-  position: relative;
-}
-
-.navbar-toggle {
-	background-color: #dfdfdf;
-	margin-right: 20px;
-}
-
-.navbar-toggle .icon-bar {
-	background-color: black;
-}
-
-.navbar-nav > li > a {
-	color: #999;
-	background-color: none;
-}
-
-.navbar-nav > li > a:hover {
-	color: #EC5E3D;
-	background-color: transparent;
-}
 
 .lead {
 	font-size: 16px;
@@ -223,10 +264,6 @@ ul.pagination {
 	bottom: -6px;
 }
 
-.footer-line {
-
-}
-
 
 /* CSS for Articles */
 
@@ -239,7 +276,7 @@ ul.pagination {
 }
 
 
-footer {
-	/*position: absolute;
-	bottom: 10px;*/
+/* footer */
+.copyright-text {
+	padding-left: 10px;
 }
