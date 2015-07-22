@@ -98,6 +98,12 @@ a:hover {
 	text-decoration: none;
 }
 
+/* Project Styles */
+
+.projects-container {
+	padding-left: 10px;
+	padding-right: 10px;
+}
 
 .video-row {
     margin-top: 20px;
@@ -195,7 +201,11 @@ a:hover {
 }
 
 ul.pagination {
-	margin: 0px;
+	/*margin: 0px;*/
+	/*padding-top: 10px;
+	padding-bottom: 15px; */
+	margin-top: 5px;
+	padding-right: 15px;
 }
 
 .pagination > .active > a {
