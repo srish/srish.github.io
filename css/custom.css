@@ -274,16 +274,23 @@ ul.pagination {
 	bottom: -6px;
 }
 
+/* contact */
 
-/* CSS for Articles */
+.social-media-links a:hover {
+	background-color: transparent;
+	color: #EC5E3D;
+	text-decoration: none;
+}
 
-.feed_item_title {
+/* CSS for RSS Feed Articles */
+
+/*.feed_item_title {
 	margin-left: 5px;
 }
 
 .feed_item_date {
 	margin-left: 5px;
-}
+}*/
 
 
 /* footer */

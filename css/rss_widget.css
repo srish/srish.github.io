@@ -1,7 +1,7 @@
 body {}
     img {border:none;}
     
-    #container {text-align:left;overflow:hidden;margin:0;padding:0;width: 800px; font-family:freight-text-pro,Georgia,Cambria,Times New Roman,Times,serif;font-size:1.6empx;border:0px solid #CCCCCC;}
+    #container {text-align:left;overflow:hidden;margin:0;padding:0;width: 800px; font-size:1.6empx;border:0px solid #CCCCCC;}
     #header {margin:0px;padding:5px 5px 5px 5px;color:#FFFFFF;background-color:#0066FF;background-image:none;}
     #header .feed_title{margin:0;padding:0;font-weight:normal;word-wrap:break-word;}
     #header .feed_title a:link{color:#FFFFFF;text-decoration:none;}
