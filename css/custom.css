@@ -143,20 +143,39 @@ a:hover {
 	margin-left: 15px;
 }
 
-.img-responsive {
-	height: 140px;
-	width: 215px;		
+.img-responsive {	
 	border: 1px solid #dfdfdf;
 }
 
 .project-gist {
+	display: block;
+	width: 88%;
+	height: 100%;
 	background-color: #EC5E3D;
 	opacity: 0.9;
 	position: absolute;
 	top: 0px;
-	width: 215px;
-	height: 140px;
 	opacity: 0;
+}
+
+@media (max-width: 768px) { 
+	.img-responsive {
+		width: 100%;
+	}
+
+	.project-gist {
+		width: 80%;
+	}
+}
+
+@media (max-width: 992px) { 
+	.img-responsive {
+		width: 100%;
+	}
+
+	.project-gist {
+		width: 94.5%;
+	}
 }
 
 .portfolio-item:hover .project-gist{
@@ -280,6 +299,10 @@ ul.pagination {
 	background-color: transparent;
 	color: #EC5E3D;
 	text-decoration: none;
+}
+
+.no-padding {
+	padding: 0px;
 }
 
 /* CSS for RSS Feed Articles */
