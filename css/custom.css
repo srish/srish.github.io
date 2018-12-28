@@ -320,25 +320,19 @@ ul.pagination {
 	margin: 15px;
 }
 
-.photos-carousel .carousel-inner > .active {
+.photos-carousel .carousel-inner {
 	display: flex;
     align-items: center;
     justify-content: center;
+}
+
+.photos-carousel .carousel-inner img {
    	height: 530px;
 }
 
 .photos-carousel .carousel-caption {
-	color: white;
-	background-color: black;
-	width: 100%;
-	opacity: 0.8;
-	position: absolute;
-	left: 0px;
-	bottom: 0px;
-	right: 0px;
 	margin: 0px;
 	padding: 0px;
-	padding-bottom: 2px;
 }
 
 .photos-carousel .carousel-caption span {
@@ -358,7 +352,8 @@ ul.pagination {
 .photos-carousel .carousel-control.right,  
 .carousel-control.left {
 	background: transparent;
-	color: white;
+	color: #EC5E3D;
+	width: 5%;
 }
 
 /* footer */
