@@ -305,16 +305,6 @@ ul.pagination {
 	padding: 0px;
 }
 
-/* CSS for RSS Feed Articles */
-
-/*.feed_item_title {
-	margin-left: 5px;
-}
-
-.feed_item_date {
-	margin-left: 5px;
-}*/
-
 /* Photos carousel */
 .photos-carousel {
 	margin: 15px;
@@ -354,6 +344,16 @@ ul.pagination {
 	background: transparent;
 	color: #EC5E3D;
 	width: 5%;
+}
+
+.blogposts-container {
+	margin: 15px;
+	margin-top: 0px;
+	padding: 10px;
+}
+
+#blog-posts a {
+	font-size: 1.1em;
 }
 
 /* footer */

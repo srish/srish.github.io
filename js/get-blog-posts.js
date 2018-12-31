@@ -1,0 +1,141 @@
+var posts = [ {
+		"title": "Year in Review 2017",
+		"pubdate": "31 Dec 2017",
+		"link": "https://medium.com/@Srish_Aka_Tux/year-in-review-2017-f322837465f5",
+	},
+	{
+		"title": "Volunteering at ScriptEd: What I knew, taught and learned?",
+		"pubdate": "31 Dec 2017",
+		"link": "https://medium.com/@Srish_Aka_Tux/volunteering-at-scripted-what-i-knew-taught-and-learned-b8174545b8d0",
+	},
+	{
+		"title": "Wikimedia Foundation funds six Outreachy interns for round 15",
+		"pubdate": "01 Dec 2017",
+		"link": "https://blog.wikimedia.org/2017/12/01/six-outreachy-interns-funded/",
+	},
+	{
+		"title": "What ten students made for Wikimedia while participating in Google Summer of Code and Outreachy round 14",
+		"pubdate": "06 Sep 2017",
+		"link": "https://blog.wikimedia.org/2017/09/06/gsoc-outreachy-wikimedia-2017/",
+	},
+	{
+		"title": "What new I learned in the Wikimedia movement at Wikimania’17",
+		"pubdate": "19 Aug 2017",
+		"link": "https://medium.com/@Srish_Aka_Tux/what-new-i-learned-in-the-wikimedia-movement-at-wikimania17-e90870e1a91a",
+	},
+	{
+		"title": "What we learned by making both newcomers and experienced participants feel connected and engaged at the Vienna Hackathon",
+		"pubdate": "31 May 2017",
+		"link": "https://blog.wikimedia.org/2017/05/31/vienna-hackathon-learnings/",
+	},
+	{
+		"title": "Tale of a random act of kindness from a biking trip in California",
+		"pubdate": "10 May 2017",
+		"link": "https://medium.com/@Srish_Aka_Tux/tale-of-a-random-act-of-kindness-from-a-biking-trip-in-california-6f31c905d323",
+	},
+	{
+		"title": "Looking back on the 2017 Wikimedia Developer Summit",
+		"pubdate": "24 Mar 2017",
+		"link": "https://blog.wikimedia.org/2017/03/24/wikimedia-developer-summit-2017/",
+	},
+	{
+		"title": "Some methods I learned from Aspiration Tech for running in-person participatory events",
+		"pubdate": "20 Nov 2016",
+		"link": "https://medium.com/@Srish_Aka_Tux/some-methods-i-learned-from-aspiration-tech-for-running-in-person-participatory-events-a703de1823ff",
+	},
+	{
+		"title": "Beyond My Dreams: From small town Bikaner to the MIT Media Lab",
+		"pubdate": "23 Mar 2016",
+		"link": "https://fold.cm/read/Srish_Aka_Tux/beyond-my-dreams-from-a-small-town-bikaner-to-the-mit-media-lab-aXjoR6K8",
+	},
+	{
+		"title": "Showcasing Student Voices through Stucamp Unhangout",
+		"pubdate": "11 Jan 2016",
+		"link": "https://medium.com/@Srish_Aka_Tux/showcasing-student-voices-through-stucamp-unhangout-81829f6da08f",
+	},
+	{
+		"title": "Making Serendipity Stick: Translating short, live online interactions into meaningful relationships (masters thesis)",
+		"pubdate": "08 May 2015",
+		"link": "masters_thesis.pdf",
+	},
+	{
+		"title": "Bringing participant-driven professional development to Edcamp Online",
+		"pubdate": "02 Apr 2015",
+		"link": "https://medium.com/@Srish_Aka_Tux/bringing-participant-driven-professional-development-to-edcamp-online-f457a33b684a",
+	},
+	{
+		"title": "Trip Report: Lifelong Learning @Design Innovation Workshop, Ahmedabad 2015",
+		"pubdate": "16 Feb 2015",
+		"link": "http://learn.media.mit.edu/reports/indiavisit/",
+	},
+	{
+		"title": "Second Virtual Visit to the Media Lab",
+		"pubdate": "30 Sep 2014",
+		"link": "https://medium.com/@Srish_Aka_Tux/second-virtual-visit-to-the-media-lab-606a28a1b9e9",
+	},
+	{
+		"title": "Learning Over Education: Connecting Indian undergraduates outside of university lectures",
+		"pubdate": "04 Aug 2014",
+		"link": "https://medium.com/@Srish_Aka_Tux/learning-over-education-connecting-indian-undergraduates-outside-of-university-lectures-b6d566a8b2c3",
+	},
+	{
+		"title": "A Visit to the Barefoot College: Social Work and Research Center, Tilonia",
+		"pubdate": "30 Jun 2014",
+		"link": "https://medium.com/@Srish_Aka_Tux/a-visit-to-the-barefoot-college-social-work-and-research-center-tilonia-rajasthan-da6a84742f21",
+	},
+	{
+		"title": "MIT Media Lab Virtual Visit",
+		"pubdate": "30 Apr 2014",
+		"link": "https://medium.com/@Srish_Aka_Tux/mit-media-lab-virtual-visit-2a8b70479d92",
+	},
+	{
+		"title": "A Glimpse Inside | My journey of Teaching and Learning: “The Having of Wonderful Ideas",
+		"pubdate": "08 Apr 2014",
+		"link": "https://medium.com/@Srish_Aka_Tux/a-glimpse-inside-my-journey-of-teaching-and-learning-the-having-of-wonderful-ideas-85ae401d088e",
+	},
+	{
+		"title": "My favorite childhood objects",
+		"pubdate": "23 Mar 2014",
+		"link": "https://medium.com/@Srish_Aka_Tux/my-favorite-childhood-objects-e6a32da27a1c",
+	},
+	{
+		"title": "My Journey through Open Source",
+		"pubdate": "19 Jan 2014",
+		"link": "https://medium.com/@Srish_Aka_Tux/my-journey-through-open-source-c76e59f3c88d",
+	},
+	{
+		"title": "Group Formation in MOOCs (a CSCW conference proposal)",
+		"pubdate": "04 Dec 2013",
+		"link": "Group_Formation_in_MOOCs.pdf",
+	},
+	{
+		"title": "My First Snowfall in Vermont",
+		"pubdate": "16 Nov 2013",
+		"link": "https://medium.com/@Srish_Aka_Tux/my-first-snowfall-in-vermont-7830d80aa7f8",
+	},
+	{
+		"title": "I am joining MIT Media Lab, a hotbed of creativity",
+		"pubdate": "03 Jun 2013",
+		"link": "https://medium.com/@Srish_Aka_Tux/i-am-joining-mit-media-lab-a-hotbed-of-creativity-f09bc9c1aad7",
+	},
+	{
+		"title": "A Road trip around Hampi",
+		"pubdate": "11 Apr 2013",
+		"link": "https://medium.com/@Srish_Aka_Tux/i-am-joining-mit-media-lab-a-hotbed-of-creativity-f09bc9c1aad7",
+	}
+],
+posts_html = '';
+
+window.onload = function() {
+	blog_posts = document.getElementById( "blog-posts" );
+	
+	for( var i = 0; i< posts.length; i++ ) {
+		posts[i].title;
+		posts[i].pubdate;
+		posts[i].link;
+
+		posts_html += '<div>' + posts[i].pubdate + ': <a href="' + posts[i].link + ' " target="_blank">' + posts[i].title + '</a></div>';
+	}
+
+	blog_posts.innerHTML = posts_html;
+}
