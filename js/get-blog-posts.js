@@ -1,4 +1,24 @@
 var posts = [ {
+		"title": "Wikimedia Foundation collaborates with two initiatives: Mozilla’s OSSN and Teaching OpenSource’s POSSE",
+		"pubdate": "12 Oct 2018",
+		"link": "https://wikimediafoundation.org/2018/10/12/wikimedia-foundation-collaboration-ossn-posse/",
+	},
+	{
+		"title": "Gerrit newcomer bot: one small step to welcome new developers and track their patches",
+		"pubdate": "18 Sep 2018",
+		"link": "https://medium.com/@Srish_Aka_Tux/gerrit-newcomer-bot-one-small-step-to-welcoming-new-developers-and-tracking-their-patches-50cc6eebf34d",
+	},
+	{
+		"title": "See the completed Google Summer of Code and Outreachy projects from this year",
+		"pubdate": "27 Aug 2018",
+		"link": "https://wikimediafoundation.org/2018/08/27/google-summer-of-code-outreachy-round-16/",
+	},
+	{
+		"title": "IRCTC, the lifeline of train ticket booking looks dead from outside",
+		"pubdate": "13 Aug 2018",
+		"link": "https://medium.com/@Srish_Aka_Tux/irctc-the-lifeline-of-train-ticket-booking-looks-dead-from-outside-e5d836e8c22c",
+	},
+	{
 		"title": "Year in Review 2017",
 		"pubdate": "31 Dec 2017",
 		"link": "https://medium.com/@Srish_Aka_Tux/year-in-review-2017-f322837465f5",

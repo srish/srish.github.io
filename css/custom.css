@@ -320,6 +320,13 @@ ul.pagination {
    	height: 530px;
 }
 
+@media (max-width: 768px) { 
+	.photos-carousel .carousel-inner img {
+		width: 100%;
+		height: auto;
+	}
+}
+
 .photos-carousel .carousel-caption {
 	margin: 0px;
 	padding: 0px;
