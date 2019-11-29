@@ -209,6 +209,48 @@ a:hover {
 	font-weight: 400;
 }
 
+.project-sub-title {
+	font-weight: 400;
+	color: #696969;
+}
+
+.wiki-work hr {
+	margin-top: 0px;
+}
+
+.wiki-work-toc {
+	background: #fff6f5;
+    border-radius: 10px;
+    padding: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+.wiki-work-toc p {
+	text-align: center;
+}
+
+.wiki-work-toc .toc-level-one {
+	padding-left: 0px;
+}
+
+.wiki-work-toc .toc-ul {
+	list-style: none;
+	/* padding: 5px; */
+}
+
+.wiki-work-toc .toc-txt {
+	color: #EC5E3D;
+	margin-left: 10px;
+}	
+
+.wiki-work-links {
+	color: #333333;
+	font-weight: 600;
+}
+
 .project-gallery-img {
 	width: 450px; 
 	margin-top: 20px;
