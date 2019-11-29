@@ -347,26 +347,8 @@ ul.pagination {
 	padding: 0px;
 }
 
-/* Photos carousel */
 .photos-carousel {
-	margin: 15px;
-}
-
-.photos-carousel .carousel-inner {
-	display: flex;
-    align-items: center;
-    justify-content: center;
-}
-
-.photos-carousel .carousel-inner img {
-   	height: 530px;
-}
-
-@media (max-width: 768px) { 
-	.photos-carousel .carousel-inner img {
-		width: 100%;
-		height: auto;
-	}
+	padding-bottom: 20px;
 }
 
 .photos-carousel .carousel-caption {

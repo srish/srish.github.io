@@ -1,4 +1,29 @@
 var posts = [ {
+		"title": "Round-up of Small Wiki Toolkits at Wikimania 2019",
+		"pubdate": "24 Sep 2019",
+		"link": "https://discuss-space.wmflabs.org/t/round-up-of-small-wiki-toolkits-at-wikimania-2019/1447",
+	},
+	{
+		"title": "Wikimania Stockholm 2019",
+		"pubdate": "29 Aug 2019",
+		"link": "https://medium.com/@Srish_Aka_Tux/wikimania-stockholm-2019-c3a12d5c38d0",
+	},
+	{
+		"title": "Documentation feedback gadget for wikis",
+		"pubdate": "12 May 2019",
+		"link": "https://medium.com/@Srish_Aka_Tux/documentation-feedback-gadget-for-wikis-c280531e3108",
+	},
+	{
+		"title": "Outcomes and lessons learned from piloting the Onboarding New Developers program at Wikimedia",
+		"pubdate": "28 Mar 2019",
+		"link": "https://medium.com/@Srish_Aka_Tux/outcomes-and-lessons-learned-from-piloting-the-onboarding-new-developers-program-at-wikimedia-87cc2814e271",
+	},
+	{
+		"title": "Year in Review 2018",
+		"pubdate": "31 Dec 2018",
+		"link": "https://medium.com/@Srish_Aka_Tux/year-in-review-2018-29817757596c",
+	},
+	{
 		"title": "Wikimedia Foundation collaborates with two initiatives: Mozilla’s OSSN and Teaching OpenSource’s POSSE",
 		"pubdate": "12 Oct 2018",
 		"link": "https://wikimediafoundation.org/2018/10/12/wikimedia-foundation-collaboration-ossn-posse/",
