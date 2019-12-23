@@ -1,4 +1,4 @@
-var api_endpoint = 'https://commons.wikimedia.org/w/api.php?action=query&list=allimages&aiuser=Srishti%20Sethi&aisort=timestamp&ailimit=100&format=json';
+var api_endpoint = 'https://commons.wikimedia.org/w/api.php?action=query&list=allimages&aiuser=Srishti%20Sethi&aisort=timestamp&aidir=descending&ailimit=100&format=json';
 
 $.ajax( {
 	url: api_endpoint, 
