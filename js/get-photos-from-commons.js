@@ -16,7 +16,7 @@ $.ajax( {
 
 			$( '.carousel-inner' ).append( response );
 			$( '.item' ).first().addClass( 'active' );
-			$( '#photoCarousel' ).carousel();
+			$( '#photoCarousel' ).carousel({interval: false});
 		}
 	}
 } );
