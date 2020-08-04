@@ -9,6 +9,11 @@ var posts = [ {
 		"link": "https://medium.com/@Srish_Aka_Tux/wikimania-stockholm-2019-c3a12d5c38d0",
 	},
 	{
+		"title": "Breaking Down Walls with Open Source Technology: Srishti Sethi’s developer advocacy at the Wikimedia Foundation (interview)",
+		"pubdate": "19 May 2019",
+		"link": "https://wogrammer.org/stories/srishti",
+	},
+	{
 		"title": "Documentation feedback gadget for wikis",
 		"pubdate": "12 May 2019",
 		"link": "https://medium.com/@Srish_Aka_Tux/documentation-feedback-gadget-for-wikis-c280531e3108",
