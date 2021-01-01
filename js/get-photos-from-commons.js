@@ -11,7 +11,10 @@ $.ajax( {
 		if ( results ) { 
 			for( var i = 0; i< results.length; i++ ) {
 				name = results[i].name.split( '.' )[0].replace( /_/g, ' ' );
-				response += '<div class="item"><img src="' + results[i].url + '"><div class="photos-carousel carousel-caption"><h5>' + name + '</h5><span><a href="'+ results[i].descriptionurl + '" target="_blank">View on Wikimedia Commons</a></span></div></div>';
+				url = 'https://upload.wikimedia.org/wikipedia/commons/thumb/' +
+					results[i].url.substring(results[i].url.indexOf('commons/') + 'commons/'.length)
+					+ '/1024px-' + results[i].name;
+				response += '<div class="item"><img src="' + url + '"><div class="photos-carousel carousel-caption"><h5>' + name + '</h5><span><a href="'+ results[i].descriptionurl + '" target="_blank">View on Wikimedia Commons</a></span></div></div>';
 			}
 
 			$( '.carousel-inner' ).append( response );
