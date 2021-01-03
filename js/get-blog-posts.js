@@ -1,4 +1,55 @@
-var posts = [ {
+var posts = [
+	{
+		"title": "One year of Small Wiki Toolkits initiative–and more to come!",
+		"pubdate": "30 Sep 2020",
+		"link": "https://diff.wikimedia.org/2020/09/30/one-year-of-small-wiki-toolkits-initiative-and-more-to-come/",
+	},
+	{
+		"title": "Kriti Program (pilot report)",
+		"pubdate": "18 Sep 2020",
+		"link": "https://unstructured.studio/uploads/2020/09/kriti-program-report.pdf",
+	},
+	{
+		"title": "Kriti Program: learning remotely via low-cost making and tinkering!",
+		"pubdate": "18 Sep 2020",
+		"link": "https://unstructured.studio/blog/kriti-program-learning-remotely-via-low-cost-making-and-tinkering/",
+	},
+	{
+		"title": "Lalitha’s story: an Outreachy intern shares her experience",
+		"pubdate": "26 Aug 2020",
+		"link": "https://techblog.wikimedia.org/2020/08/26/lalithas-story-an-outreachy-intern-shares-her-experience/",
+	},
+	{
+		"title": "Creative learning during COVID-19",
+		"pubdate": "05 May 2020",
+		"link": "https://unstructured.studio/blog/creative-learning-during-covid-19/",
+	},
+	{
+		"title": "Using Zulip, an Open Source tool, for engaging participants in Wikimedia’s technical outreach programs",
+		"pubdate": "04 May 2020",
+		"link": "https://techblog.wikimedia.org/2020/05/04/using-zulip-an-open-source-tool-for-engaging-participants-in-wikimedias-technical-outreach-programs/",
+	},
+	{
+		"title": "Fixing The Docs is a Group Effort",
+		"pubdate": "06 Mar 2020",
+		"link": "https://medium.com/@Srish_Aka_Tux/fixing-the-docs-is-a-group-effort-786367733d83",
+	},
+	{
+		"title": "Paper circuits workshop at Agastya Foundation, Bangalore",
+		"pubdate": "27 Jan 2020",
+		"link": "https://unstructured.studio/blog/paper-circuits-workshop-at-agastya-foundation-bangalore/",
+	},
+	{
+		"title": "Prototyping updates on a new Project Zub",
+		"pubdate": "26 Jan 2020",
+		"link": "https://unstructured.studio/blog/prototyping-updates-on-project-zub/",
+	},
+	{
+		"title": "Year in Review 2019",
+		"pubdate": "31 Dec 2019",
+		"link": "https://medium.com/@Srish_Aka_Tux/year-in-review-2019-7171b25053b6",
+	},
+	{
 		"title": "Round-up of Small Wiki Toolkits at Wikimania 2019",
 		"pubdate": "24 Sep 2019",
 		"link": "https://discuss-space.wmflabs.org/t/round-up-of-small-wiki-toolkits-at-wikimania-2019/1447",
