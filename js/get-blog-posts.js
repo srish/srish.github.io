@@ -25,6 +25,11 @@ var posts = [
 		"link": "https://techblog.wikimedia.org/2020/08/26/lalithas-story-an-outreachy-intern-shares-her-experience/",
 	},
 	{
+		"title": "Designing technical workshops for the Indic community",
+		"pubdate": "11 Aug 2020",
+		"link": "https://diff.wikimedia.org/2020/08/11/designing-technical-workshops-for-the-indic-community/",
+	},
+	{
 		"title": "Creative learning during COVID-19",
 		"pubdate": "05 May 2020",
 		"link": "https://unstructured.studio/blog/creative-learning-during-covid-19/",
