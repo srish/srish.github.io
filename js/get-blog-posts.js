@@ -1,5 +1,50 @@
 var posts = [
 	{
+		"title": "Reflecting on 2021 and preparing for better dating experiences in 2022",
+		"pubdate": "31 Dec 2021",
+		"link": "https://medium.com/@Srish_Aka_Tux/reflecting-on-2021-and-preparing-for-better-dating-experiences-in-2022-115cb711050e",
+	},
+	{
+		"title": "Unstructured Studio 2021 ➔ Year in Review",
+		"pubdate": "30 Dec 2021",
+		"link": "https://unstructured.studio/blog/unstructured-studio-2021-year-in-review/",
+	},
+	{
+		"title": "Creative learning residential camp in nature's lap, Umeta village (Gujarat)",
+		"pubdate": "23 Dec 2021",
+		"link": "https://unstructured.studio/blog/creative-learning-in-natures-lap/",
+	},
+	{
+		"title": "Roundup: Google Summer of Code 2021 and Outreachy Round 22",
+		"pubdate": "8 Oct 2021",
+		"link": "https://techblog.wikimedia.org/2021/10/08/roundup-google-summer-of-code-2021-and-outreachy-round-22/",
+	},
+	{
+		"title": "Call for smaller language wikis to participate in the technical capacity-building program!",
+		"pubdate": "24 Sep 2021",
+		"link": "https://diff.wikimedia.org/2021/09/24/call-for-smaller-language-wikis-to-participate-in-the-technical-capacity-building-program/",
+	},
+	{
+		"title": "Our Tinkering Fellows share their experiences",
+		"pubdate": "30 Aug 2021",
+		"link": "https://unstructured.studio/blog/our-tinkering-fellows-share-their-experiences/",
+	},
+	{
+		"title": "Outreachy round 21: experiences and outcomes",
+		"pubdate": "2 Jun 2021",
+		"link": "https://techblog.wikimedia.org/2021/06/02/outreachy-round-21-experiences-and-outcomes/",
+	},
+	{
+		"title": "Our COVID-19 Support Programs",
+		"pubdate": "10 May 2021",
+		"link": "https://unstructured.studio/blog/covid-19-support-programs/",
+	},
+	{
+		"title": "Tinkering and Facilitation Capacity Building Workshop Series, Ahmedabad",
+		"pubdate": "17 Mar 2021",
+		"link": "https://unstructured.studio/blog/tinkering-and-facilitation-workshops-ahmedabad/",
+	},
+	{
 		"title": "Looking Back At 2020, Looking Ahead To 2021",
 		"pubdate": "3 Jan 2021",
 		"link": "https://medium.com/@Srish_Aka_Tux/looking-back-at-2020-looking-ahead-to-2021-77c0136a571c",
