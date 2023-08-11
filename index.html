@@ -73,20 +73,21 @@
 
         <div class="row"> 
             <div class="col-md-12">
-                <div class="col-md-5 portfolio-picture">
-                    <img class="img-responsive" style="width: 100%; height: 100%;" src="img/srish.jpeg">
-                </div>
                 <div class="personal-bio col-md-7">
-                <p>Hey there! I am Srishti, currently working as a Senior Developer Advocate at the <a href="http://wikimediafoundation.org/" target="_blank">Wikimedia Foundation</a>. I support the organization's efforts to engage volunteer developers in Wikimedia software projects and to grow the technical community. <a href="https://srish.github.io/work/wikimedia.html">Here is what I am upto at Wikimedia</a>.</p>
-                <p>I co-run <a href="http://unstructured.studio" target="_blank">Unstructured Studio</a> where we design learning tools & experiences to foster creativity among youth. I graduated with Masters degree in Media Arts and Sciences from the <a href="http://llk.media.mit.edu" target="_blank">Lifelong Kindergarten</a> research group at the <a href="http://media.mit.edu" target="_blank">MIT Media Lab</a>. While at the Lab, I helped develop <a href="http://unhangout.media.mit.edu" target="_blank">Unhangout</a>, a platform for running large-scale unconferences online. At Unstructured Studio, I am building on my research and other researchers' work.</p>
+                <p>Hey there! I am Srishti, currently working as a Senior Developer Advocate at the <a href="http://wikimediafoundation.org/" target="_blank">Wikimedia Foundation</a>, the non-profit organization behind Wikipedia. I support the organization's efforts to engage volunteer developers in Wikimedia software projects and to grow the technical community. <a href="https://meta.wikimedia.org/wiki/User:SSethi_(WMF)" target="_blank">Here is what I am upto at Wikimedia</a>.</p>
+                <p>I am the co-founder of a  <span class="studioAge">1 year</span> old, educational non-profit, <a href="http://unstructured.studio" target="_blank">Unstructured Studio</a>, that designs learning tools & experiences to foster creativity among youth. I graduated with Masters degree in Media Arts and Sciences from the <a href="http://llk.media.mit.edu" target="_blank">Lifelong Kindergarten</a> research group at the <a href="http://media.mit.edu" target="_blank">MIT Media Lab</a>. While at the Lab, I helped develop <a href="http://unhangout.media.mit.edu" target="_blank">Unhangout</a>, a platform for running large-scale unconferences online. At Unstructured Studio, I am building on my research and other researchers' work.</p>
                 <p>Outside of work, I like to spend time with friends and family, go on bike trips with <a href="http://twitter.com/Schweenie_" target="_blank">Schweenie</a>, hunt for the best chai serving restaurants around, and drive around in the suburbs. </p>                <p>Cities I've lived in: 
                     <a href="https://en.wikipedia.org/wiki/Bikaner" target="_blank">Bikaner</a> (22.5 years) > 
                     <a href="https://en.wikipedia.org/wiki/Bangalore" target="_blank">Bangalore</a> (2 years) > 
                     <a href="https://en.wikipedia.org/wiki/Boston" target="_blank">Boston</a> (3.3 years). Now in the 
                     <a href="https://en.wikipedia.org/wiki/San_Francisco_Bay_Area">Bay Area </a>(since <span class="timeSpentInSFBA">7 months</span>).
                 </p>
-                <p>Find me: <a href="https://twitter.com/srish_aka_tux" target="_blank">@Srish_Aka_Tux</a> | <a href="mailto:srishakatux@gmail.com">Email</a> | <a href="http://github.com/srish" target="_blank">Github</a> </p>
+                <p>Find me: <a href="https://twitter.com/srish_aka_tux" target="_blank">Twitter</a> | <a href="mailto:srishakatux@gmail.com">Email</a> | <a href="http://github.com/srish" target="_blank">GitHub</a> | 
+                <a href="https://www.linkedin.com/in/srishakatux/" target="_blank">LinkedIn</a> </p>
+                </div>
 
+                <div class="col-md-5 portfolio-picture">
+                    <a title="SSethi (WMF), CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Srishti_Sethi_Feb_2023.jpg"><img class="img-responsive" style="width: 100%; height: 100%;" alt="Srishti Sethi Feb 2023" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Srishti_Sethi_Feb_2023.jpg/512px-Srishti_Sethi_Feb_2023.jpg"></a>
                 </div>
             </div>
         </div>
@@ -94,16 +95,21 @@
         <div class="row">
             <div class="col-xs-12">
             <hr class="site-header-line">
-            <p class="copyright-text">Copyright &copy; SrishAkaTux 2022</p>
+            <p class="copyright-text">Copyright &copy; SrishAkaTux 2023</p>
             </div>
         </div>
     </div>
 </body>
 
 <script type="text/javascript">
-    var years = moment().diff('2016-10-07', 'years', 'true');
-    var rounded = Math.round(years * 10) / 10;
-    $(".timeSpentInSFBA").text(rounded + " years");
+    var yearsInSFBay = moment().diff('2016-10-07', 'years', 'true');
+    var yearsInSFBayRounded = Math.round(yearsInSFBay * 10) / 10;
+    $(".timeSpentInSFBA").text(yearsInSFBayRounded + " years");
+
+    var studioAge = moment().diff('2020-11-01', 'years', 'true');
+    var studioAgeRounded = Math.floor((studioAge * 10) / 10);
+    $(".studioAge").text(studioAgeRounded + " years");
+
 </script>
 
 </html>
