@@ -1,5 +1,15 @@
 var posts = [
 	{
+		"title": "Wikipedia Goes Live for Five Languages through the Future of Language Incubation Initiative",
+		"pubdate": "31 Oct 2024",
+		"link": "https://diff.wikimedia.org/2024/10/31/wikipedia-goes-live-for-five-languages-through-the-future-of-language-incubation-initiative/",
+	},
+	{
+		"title": "Introducing Wishathon for Wikimedia’s Community Wishlist!",
+		"pubdate": "11 Dec 2023",
+		"link": "https://diff.wikimedia.org/2023/12/11/introducing-wishathon-for-wikimedias-community-wishlist/",
+	},
+	{
 		"title": "10 ways Wikimedia does developer advocacy (Part 2)",
 		"pubdate": "7 Mar 2023",
 		"link": "https://opensource.com/article/23/3/developer-advocacy-wikimedia",
@@ -69,11 +79,11 @@ var posts = [
 		"pubdate": "26 Jan 2020",
 		"link": "https://unstructured.studio/blog/prototyping-updates-on-project-zub/",
 	},
-	{
-		"title": "Year in Review 2019",
-		"pubdate": "Dec 30, 2019",
-		"link": "https://medium.com/@Srish_Aka_Tux/year-in-review-2019-7171b25053b6",
-	},
+	// {
+	// 	"title": "Year in Review 2019",
+	// 	"pubdate": "Dec 30, 2019",
+	// 	"link": "https://medium.com/@Srish_Aka_Tux/year-in-review-2019-7171b25053b6",
+	// },
 	{
 		"title": "Wikimania Stockholm 2019",
 		"pubdate": "29 Aug 2019",
@@ -94,11 +104,11 @@ var posts = [
 		"pubdate": "19 March 2019",
 		"link": "https://wogrammer.org/stories/srishti",
 	},
-	{
-		"title": "Year in Review 2018",
-		"pubdate": "31 Dec 2018",
-		"link": "https://medium.com/@Srish_Aka_Tux/year-in-review-2018-29817757596c",
-	},
+	// {
+	// 	"title": "Year in Review 2018",
+	// 	"pubdate": "31 Dec 2018",
+	// 	"link": "https://medium.com/@Srish_Aka_Tux/year-in-review-2018-29817757596c",
+	// },
 	{
 		"title": "Wikimedia Foundation collaborates with two initiatives: Mozilla’s OSSN and Teaching OpenSource’s POSSE",
 		"pubdate": "12 Oct 2018",
@@ -114,11 +124,11 @@ var posts = [
 		"pubdate": "13 Aug 2018",
 		"link": "https://medium.com/@Srish_Aka_Tux/irctc-the-lifeline-of-train-ticket-booking-looks-dead-from-outside-e5d836e8c22c",
 	},
-	{
-		"title": "Year in Review 2017",
-		"pubdate": "31 Dec 2017",
-		"link": "https://medium.com/@Srish_Aka_Tux/year-in-review-2017-f322837465f5",
-	},
+	// {
+	// 	"title": "Year in Review 2017",
+	// 	"pubdate": "31 Dec 2017",
+	// 	"link": "https://medium.com/@Srish_Aka_Tux/year-in-review-2017-f322837465f5",
+	// },
 	{
 		"title": "Volunteering at ScriptEd: What I knew, taught and learned?",
 		"pubdate": "31 Dec 2017",
