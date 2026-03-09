@@ -1,5 +1,15 @@
 var posts = [
 	{
+		"title": "A Honeymoon on the White Continent, Antarctica",
+		"pubdate": "09 Jan 2026",
+		"link": "https://medium.com/@Srish_Aka_Tux/a-honeymoon-on-the-white-continent-antarctica-86ce560b65b9",
+	},
+	{
+		"title": "Media Lab alum Srishti Sethi receives Open Education Global Award 2025 (press)",
+		"pubdate": "22 Oct 2025",
+		"link": "https://www.media.mit.edu/posts/lifelong-kindergarten-alumna-srishti-sethi-receives-open-education-global-award/",
+	},
+	{
 		"title": "Wikipedia Goes Live for Five Languages through the Future of Language Incubation Initiative",
 		"pubdate": "31 Oct 2024",
 		"link": "https://diff.wikimedia.org/2024/10/31/wikipedia-goes-live-for-five-languages-through-the-future-of-language-incubation-initiative/",
@@ -162,7 +172,7 @@ var posts = [
 	{
 		"title": "Making Serendipity Stick: Translating short, live online interactions into meaningful relationships (masters thesis)",
 		"pubdate": "08 May 2015",
-		"link": "masters_thesis.pdf",
+		"link": "https://dspace.mit.edu/handle/1721.1/98618",
 	},
 	{
 		"title": "Bringing participant-driven professional development to Edcamp Online",
